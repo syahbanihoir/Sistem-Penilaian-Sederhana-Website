@@ -4,6 +4,7 @@ Sistem penilaian mahasiswa berbasis PHP, HTML, CSS, dan MySQL adalah aplikasi we
 
 Sistem ini dibuat sebagai tugas, Fakultas Teknologi Informasi, Universitas Budi Luhur, Jakarta.
 
+Berikut tampilan screenshot Web Sistem Penjualan:
 <img width="1889" height="865" alt="image" src="https://github.com/user-attachments/assets/c5aa59c5-5bc6-4860-be64-f6cdb8731c76" />
 <img width="1886" height="867" alt="image" src="https://github.com/user-attachments/assets/1111c49d-32bf-4da2-9c8d-55f463f5dc7f" />
 <img width="1886" height="869" alt="image" src="https://github.com/user-attachments/assets/e654cdf9-ffaf-46b1-9b69-ac59b7d68468" />
